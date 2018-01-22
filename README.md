@@ -77,6 +77,7 @@
           <input type="checkbox" value="remember-me">Remember me
         </label>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+        <br>Not yet registered? <a href="registeracc.php"><b>Register Here</b>
       </form>
 
     </div> <!-- /container -->
